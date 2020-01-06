@@ -30,8 +30,6 @@
               <br>
               <a href="listShoppers">Список покупателей</a><br>
               <br>
-              <a href="showOrderBook">Добавить книгу в корзину</a><br>
-              <br>
-              <a href="showBuyBook">Книга продана</a><br>
+              <a href="showBuyBook">Купить книгу</a><br>
     </body>
 </html>

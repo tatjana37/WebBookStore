@@ -17,7 +17,7 @@
         <a href="index.jsp">Главна страница</a><br>
         <ol>
             <c:forEach var="book" items="${listBooks}">
-                <li>${book.title}. ${book.author}. ${book.genre}. ${book.year}. ${book.price}</li>
+                <li>${book.title}. ${book.author}. ${book.genre}. ${book.year}. ${book.price}. ${book.count}</li>
             </c:forEach>
         </ol>
     </body>
